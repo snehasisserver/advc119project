@@ -1,0 +1,24 @@
+body{
+    background-color: #D3D3D3;
+    padding-bottom: 100px;
+}
+#score{
+    font-size: 25px;
+    float: left;
+    margin-left:100px;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 100px;
+}
+#next{
+    color:aqua;
+    font-size: 25px;
+}
+canvas{
+    margin-top: 150px;
+    border: 5px white inset;
+    border-radius: 10px;
+    
+}
